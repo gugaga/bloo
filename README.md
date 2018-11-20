@@ -1,5 +1,2 @@
 # bloo
-# bloo
-# bloo
-# bloo
-# bloo
+this my first commit
